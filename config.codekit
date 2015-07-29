@@ -533,6 +533,28 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/img\/30-day-free-trial.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18861,
+		"inputAbbreviatedPath": "\/img\/30-day-free-trial.png",
+		"outputAbbreviatedPath": "\/img\/30-day-free-trial.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/data-center-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116327,
+		"inputAbbreviatedPath": "\/img\/data-center-1.jpg",
+		"outputAbbreviatedPath": "\/img\/data-center-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/expedient-ethernet-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -551,6 +573,39 @@
 		"initialSize": 7668,
 		"inputAbbreviatedPath": "\/img\/HD.png",
 		"outputAbbreviatedPath": "\/img\/HD.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3288,
+		"inputAbbreviatedPath": "\/img\/logo.png",
+		"outputAbbreviatedPath": "\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6317,
+		"inputAbbreviatedPath": "\/img\/logo@2x.png",
+		"outputAbbreviatedPath": "\/img\/logo@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5434,
+		"inputAbbreviatedPath": "\/img\/portal.png",
+		"outputAbbreviatedPath": "\/img\/portal.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
